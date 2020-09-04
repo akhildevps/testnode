@@ -1,0 +1,23 @@
+{
+  "name": "testnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akhildevps/testnode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akhildevps/testnode/issues"
+  },
+  "homepage": "https://github.com/akhildevps/testnode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
